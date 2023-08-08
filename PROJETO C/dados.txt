@@ -1,0 +1,5 @@
+2 vestidoPreto 228.90
+3 vestidoFemininoComEstampaRosa 119.90
+4 casacoMasculinoMarrom 225.00
+5 camisetaMasculinaPreta 19.90
+6 sueterBranco 284.00
